@@ -1,4 +1,4 @@
-module github.com/uctest2020/gosnmp1-v1.33.0
+module github.com/uctest2020/gosnmp1
 
 go 1.13
 
